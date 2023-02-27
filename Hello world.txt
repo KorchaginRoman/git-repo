@@ -1,4 +1,4 @@
-
+print("Whats up")
 print("Hello world!;")
 print("Hello everybody;")
 print("booby;")
